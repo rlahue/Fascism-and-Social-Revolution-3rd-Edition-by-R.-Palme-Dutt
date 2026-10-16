@@ -6,6 +6,8 @@ Source scan: [https://www.marxists.org/archive//dutt/1935/fascism-social-revolut
 
 ## Changelog
 
+- **2026-10-16 (-0600 UTC)**: Started splitting the document into individual pages for chapters and sections.
+
 - **2026-07-05 11:49 (-0600 UTC)**: Initial commit of the one-page HTML document.
     - Contains all transcribed text through Chapter 3, Section 2.
 

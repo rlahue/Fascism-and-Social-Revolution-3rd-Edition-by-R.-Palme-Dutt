@@ -1,0 +1,44 @@
+div#CopyrightInfo {
+	font-style:italic;
+ }
+div#Navigation ol li {
+	font-variant:small-caps;
+ }
+div#Navigation ol ol li {
+	font-variant:initial;
+ }
+div.nav {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+	font-variant:small-caps;
+	text-align:center;
+ }
+h3 {
+	text-align:center;
+ }
+div.Content {
+	text-indent:1em;
+	text-align: justify;
+ }
+blockquote p {
+	font-size: smaller;
+ }
+p.Source {
+	font-size: smaller;
+	text-align: right;
+ }
+div.Footnote {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	font-size: smaller;
+ }
+ table {
+	text-align: center;
+	margin: 0 auto;
+ }
